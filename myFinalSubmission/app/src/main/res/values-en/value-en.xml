@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Submission Two</string>
+    <string name="movies">Movies</string>
+    <string name="tvShow">TV Show</string>
+    <string name="changeLanguage">Change Language</string>
+    <string name="deskripsi">Description: </string>
+    <string name="rating">Rattings: </string>
+    <string name="rilis">Release Date: </string>
+    <string name="favoriteFilm">Favorite Film</string>
+    <string name="nameMovie">Name Movie</string>
+    <string name="emptyMovie">Empty Movie</string>
+    <string name="appwidget_text">Favorite Film</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="daily">Daily Reminder</string>
+    <string name="dailyDetail">This reminder is for remind you to open this app.</string>
+    <string name="releaseDaily">Release Reminder</string>
+    <string name="releaseDetail">This reminder will showing the movie that release today.</string>
+
+    <string name="dailyRemainderMasage">Dont forget to open this application today!</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submisi Kedua Ku</string>
+    <string name="movies">Film Bioskop</string>
+    <string name="tvShow">Serial TV</string>
+    <string name="changeLanguage">Ganti Bahasa</string>
+    <string name="deskripsi">Deskripsi: </string>
+    <string name="rating">Rating: </string>
+    <string name="rilis">Tanggal Rilis: </string>
+    <string name="favoriteFilm">Favorit Film</string>
+    <string name="nameMovie">Nama Movie</string>
+    <string name="emptyMovie">Movie Kosong</string>
+    <string name="appwidget_text">Favorit Filem</string>
+
+    <string name="reminder">Pengingat</string>
+    <string name="daily">Pengingat Harian</string>
+    <string name="dailyDetail">Mengingatkan kamu untuk kembali membuka aplikasi ini.</string>
+    <string name="releaseDaily">Pengingat Rilis Film</string>
+    <string name="releaseDetail">Pengingat untuk menampilkan Film yang dirilis pada hari ini.</string>
+
+    <string name="dailyRemainderMasage">Jangan lupa untuk membuka aplikasi ini setiap hari!</string>
+</resources>
